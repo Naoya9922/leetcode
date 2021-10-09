@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/three-consecutive-odds/submissions/
+# https://leetcode.com/problems/three-consecutive-odds/
 
 # @param {Integer[]} arr
 # @return {Boolean}
