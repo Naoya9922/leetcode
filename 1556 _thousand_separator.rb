@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/thousand-separator/submissions/
+# https://leetcode.com/problems/thousand-separator/
 
 # @param {Integer} n
 # @return {String}
