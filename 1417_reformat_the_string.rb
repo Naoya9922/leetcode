@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/reformat-the-string/submissions/
+# https://leetcode.com/problems/reformat-the-string/
 
 # @param {String} s
 # @return {String}
