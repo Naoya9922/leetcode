@@ -1,4 +1,4 @@
 # my_leetcode_solution
-my leetcode solution primarily by ruby
+leetcode solution primarily by Ruby
 
 https://leetcode.com/uedanaoya1174/
