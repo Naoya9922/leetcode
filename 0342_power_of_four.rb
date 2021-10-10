@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/power-of-four/submissions/
+# https://leetcode.com/problems/power-of-four/
 
 # @param {Integer} n
 # @return {Boolean}
