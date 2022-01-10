@@ -1,0 +1,7 @@
+# https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+
+# @param {String} s
+# @return {Boolean}
+def check_string(s)
+  s.chars.sort.join == s
+end
