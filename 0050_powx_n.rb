@@ -1,0 +1,8 @@
+# https://leetcode.com/problems/powx-n/
+
+# @param {Float} x
+# @param {Integer} n
+# @return {Float}
+def my_pow(x, n)
+  x ** n
+end
