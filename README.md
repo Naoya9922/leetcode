@@ -1,4 +1,5 @@
 # leetcode
-My leetcode solution primarily by Ruby
+
+leetcode solution primarily by Ruby, Golang, SQL
 
 https://leetcode.com/uednoy/
