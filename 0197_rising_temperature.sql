@@ -1,6 +1,6 @@
-# https://leetcode.com/problems/rising-temperature/
+-- https://leetcode.com/problems/rising-temperature/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT
   weather.id AS 'Id'
 FROM weather
