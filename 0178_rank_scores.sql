@@ -1,6 +1,6 @@
-# https://leetcode.com/problems/rank-scores/
+-- https://leetcode.com/problems/rank-scores/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT
   Score,
   DENSE_RANK() OVER(ORDER BY Score DESC) AS 'Rank'
