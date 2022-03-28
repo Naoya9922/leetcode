@@ -1,6 +1,6 @@
-# https://leetcode.com/problems/consecutive-numbers/
+-- https://leetcode.com/problems/consecutive-numbers/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT
   DISTINCT Num AS ConsecutiveNums
 FROM
