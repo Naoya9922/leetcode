@@ -2,4 +2,4 @@
 
 LeetCode solution primarily by Ruby, Golang, SQL
 
-https://leetcode.com/uednoy
+https://leetcode.com/Naoya9922
