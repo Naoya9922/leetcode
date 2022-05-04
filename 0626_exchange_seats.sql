@@ -1,6 +1,6 @@
-# https://leetcode.com/problems/exchange-seats/
+-- https://leetcode.com/problems/exchange-seats/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT
   id,
   CASE
